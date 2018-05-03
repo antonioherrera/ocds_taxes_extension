@@ -7,7 +7,10 @@ In Mexico, the legal framework considers the publication of the value with and w
 
   - Value {object}
     - netAmount (string, integer)
-    
+ 
+## Defining texts:
+ 
+ 
 **Code** | **Title** | **Description**
 --|--|--
 netAmount | Net amount | Amount as a number, without taxes.
