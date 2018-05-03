@@ -1,0 +1,16 @@
+{
+  "definitions": {
+    "Value": {
+      "properties": {
+        "netAmount": {
+          "title": "Net amount",
+          "description": "Amount as a number, without taxes.",
+          "type": [
+            "string",
+            "integer"
+          ]
+        }
+      }
+    }
+  }
+}
