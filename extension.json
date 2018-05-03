@@ -1,0 +1,14 @@
+{
+  "name": {
+    "en" : "Taxes"
+   },
+  "description": {
+    "en": "In Mexico, the legal framework considers the publication of the value with and without taxes (i.e. VAT), as the case from Moldova. The proposed structure seems appropriate."
+   },
+  "compatibility": [
+    "1.1"
+   ],
+  "documentationUrl": {
+    "en": "https://github.com/INAImexico/ocds_taxes_extension"
+   },
+}
