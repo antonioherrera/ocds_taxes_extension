@@ -11,4 +11,7 @@
   "documentationUrl": {
     "en": "https://github.com/INAImexico/ocds_taxes_extension"
    },
+  "schemas": [
+    "release-schema.json"
+  ]
 }
