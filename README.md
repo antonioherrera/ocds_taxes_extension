@@ -6,7 +6,7 @@ In Mexico, the legal framework considers the publication of the value with and w
 ### Schema:
 
   - Value {object}
-    - netAmount (string, integer)
+    - netAmount (number)
  
 ## Defining texts:
  
